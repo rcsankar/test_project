@@ -1,0 +1,5 @@
+C:\Sankar\Test\Sankar-RC\Test4\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Sankar\Test\Sankar-RC\Test4\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Sankar\Test\Sankar-RC\Test4\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Sankar\Test\Sankar-RC\Test4\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Sankar\Test\Sankar-RC\Test4\Calculator\Calculator\obj\Debug\Calculator.pdb

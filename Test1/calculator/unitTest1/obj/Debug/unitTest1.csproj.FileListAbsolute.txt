@@ -1,0 +1,8 @@
+C:\Sankar\Test\Sankar-RC\Test1\calculator\unitTest1\bin\Debug\unitTest1.dll
+C:\Sankar\Test\Sankar-RC\Test1\calculator\unitTest1\bin\Debug\unitTest1.pdb
+C:\Sankar\Test\Sankar-RC\Test1\calculator\unitTest1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Sankar\Test\Sankar-RC\Test1\calculator\unitTest1\obj\Debug\unitTest1.csprojResolveAssemblyReference.cache
+C:\Sankar\Test\Sankar-RC\Test1\calculator\unitTest1\obj\Debug\unitTest1.dll
+C:\Sankar\Test\Sankar-RC\Test1\calculator\unitTest1\obj\Debug\unitTest1.pdb
+C:\Sankar\Test\Sankar-RC\Test1\calculator\unitTest1\bin\Debug\calculator.exe
+C:\Sankar\Test\Sankar-RC\Test1\calculator\unitTest1\bin\Debug\calculator.pdb
